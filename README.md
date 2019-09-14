@@ -22,7 +22,7 @@ The goal was to create a web application where a trainer can start a training an
 
 # Java
 
-The java project can be found at: https://github.com/TijsM/Taijitan_Java 
+The java project can be found at: https://github.com/JarneDeschacht/Taijitan_Java
 
 We created a administration tool for the ji-jitsu club in Java. 
 This tool can manage
